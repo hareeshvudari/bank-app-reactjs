@@ -1,0 +1,26 @@
+.navbar-search {
+    width: 100%;
+    border: 1px solid #fff;
+    background: #fff;
+    height: 35px;
+    border-radius: 5px;
+    line-height: 35px;
+    font-size: 11px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.user-caret {
+    position: relative;
+    top: 7px;
+}
+
+.color-white {
+    color: #fff !important;
+}
+
+.user-nav-actions {
+    display: flex;
+    justify-content: flex-end;
+}
